@@ -1,0 +1,25 @@
+_repo: The-Unspeakable-Scot_56204
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crosland, T. W. H. (Thomas William Hodgson)
+    aliases:
+    - Crosland, Thomas William Hodgson
+    - McNeill, Angus
+    birthdate: 1865
+    deathdate: 1924
+    gutenberg_agent_id: '25879'
+    url: http://www.gutenberg.org/2009/agents/25879
+description: ''
+gutenberg_issued: '2017-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56204'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Unspeakable Scot
+url: http://www.gutenberg.org/ebooks/56204
